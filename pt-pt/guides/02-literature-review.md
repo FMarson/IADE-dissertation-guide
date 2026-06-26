@@ -39,7 +39,7 @@ Utilize um gestor de bibliografia para organizar artigos:
 - [Mendeley](https://www.mendeley.com/) — Alternativa
 - [JabRef](https://www.jabref.org/) — Offline, código aberto
 
-Ver: [Gestores de Bibliografia](../pt-pt/resources/bibliography-managers.md)
+Ver: [Gestores de Bibliografia](../resources/bibliography-managers.md)
 
 ### 4. Leia e Tome Notas
 
@@ -67,7 +67,7 @@ Ver: [Ferramentas de IA para Investigação](../pt-pt/resources/ai-tools.md)
 
 ## Revisão Sistemática da Literatura (SLR)
 
-Uma SLR formal é **obrigatória** para a sua dissertação. Siga a metodologia em:
+Uma SLR formal é **recomendada** para a sua dissertação. Siga a metodologia em:
 - [Guia SLR](../pt-pt/resources/systematic-literature-review.md)
 - [Checklist PRISMA](../pt-pt/resources/prisma/README.md)
 

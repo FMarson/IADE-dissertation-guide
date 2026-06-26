@@ -201,7 +201,7 @@ Artigos de texto completo excluídos (n = ...)
 Estudos incluídos na revisão (n = ...)
 ```
 
-Utilize a [App PRISMA](https://prisma-flow.diagram.org/) para gerar o seu fluxograma.
+Utilize a [App PRISMA](https://estech.shinyapps.io/prisma_flowdiagram) para gerar o seu fluxograma.
 
 ## Discussão
 

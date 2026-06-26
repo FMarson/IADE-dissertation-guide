@@ -4,7 +4,7 @@
 
 [Português](README.pt-pt.md) | English
 
-# IADE Master's Dissertation Guide
+# IADE Master's and PhD Dissertation Guide
 
 A comprehensive resource for IADE master's and PhD students to navigate through the dissertation process.
 

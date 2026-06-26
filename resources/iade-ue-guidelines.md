@@ -9,7 +9,7 @@ Official guidelines from IADE and Universidade Europeia for writing academic pap
 
 [MAP.BIB-001V02_Guia de elaboração de trabalhos académicos_UE e IADE.pdf](../articles/iade-guides/MAP.BIB-001V02_Guia%20de%20elabora%C3%A7%C3%A3o%20de%20trabalhos%20acad%C3%A9micos_UE%20e%20IADE.pdf)
 
-Guia oficial para elaboração de trabalhos académicos na IADE e Universidade Europeia.
+Guia oficial para elaboração de trabalhos académicos no IADE e Universidade Europeia.
 
 ## English
 

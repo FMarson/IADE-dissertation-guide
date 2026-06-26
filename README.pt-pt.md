@@ -1,21 +1,22 @@
 <p align="center">
   <img src="images/logo-iade.png" alt="Logótipo IADE" width="600">
+</br>
 </p>
 
 [Português](README.pt-pt.md) | [English](README.md)
 
-# Guia de Dissertações de Mestrado da IADE
+# Guia de Dissertações de Mestrado e Doutoramento do IADE/UE
 
-Um recurso abrangente para os alunos de mestrado da IADE orientar o processo de elaboração da dissertação, desde a escolha do tema até à defesa.
+Um recurso abrangente para orientar os alunos de mestrado e doutoramento do IADE no processo de elaboração da dissertação.
 
 ## Início Rápido
 
-1. **Escolha o tema** → [01 - Escolher o Tema](pt-pt/guides/01-choosing-a-topic.md)
-2. **Reveja a literatura** → [02 - Revisão da Literatura](pt-pt/guides/02-literature-review.md)
-3. **Defina a metodologia** → [03 - Metodologia de Investigação](pt-pt/guides/03-research-methodology.md)
-4. **Escreva a dissertação** → [04 - Escrever a Dissertação](pt-pt/guides/04-writing-the-dissertation.md)
-5. **Gira as citações** → [05 - Citações e Referências](pt-pt/guides/05-citations-and-references.md)
-6. **Prepare a defesa** → [06 - Preparação da Defesa](pt-pt/guides/06-defense-preparation.md)
+1. [Escolher o Tema](pt-pt/guides/01-choosing-a-topic.md)
+2. [Revisão da Literatura](pt-pt/guides/02-literature-review.md)
+3. [Metodologia de Investigação](pt-pt/guides/03-research-methodology.md)
+4. [Escrever a Dissertação](pt-pt/guides/04-writing-the-dissertation.md)
+5. [Citações e Referências](pt-pt/guides/05-citations-and-references.md)
+6. [Preparação da Defesa](pt-pt/guides/06-defense-preparation.md)
 
 ## Recursos
 

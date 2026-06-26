@@ -6,7 +6,7 @@
 
 # IADE Master's Dissertation Guide
 
-A comprehensive resource for IADE master's students to navigate the dissertation process, from topic selection to defense.
+A comprehensive resource for IADE master's and PhD students to navigate through the dissertation process.
 
 ## Quick Start
 

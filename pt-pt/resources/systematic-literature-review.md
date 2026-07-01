@@ -1,5 +1,4 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logotipo IADE" width="600"></br></p>
-
+<p align="center"><img src="../../images/logo-iade.png" alt="Logotipo IADE" width="600"></p> </br></p>
 
 # Revisão Sistemática da Literatura (SLR)
 
@@ -201,7 +200,7 @@ Artigos de texto completo excluídos (n = ...)
 Estudos incluídos na revisão (n = ...)
 ```
 
-Utilize a [App PRISMA](https://estech.shinyapps.io/prisma_flowdiagram/) para gerar o seu fluxograma.
+Utilize a [App PRISMA](https://estech.shinyapps.io/prisma_flowdiagram) para gerar o seu fluxograma.
 
 ## Discussão
 

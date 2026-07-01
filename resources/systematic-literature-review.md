@@ -1,11 +1,11 @@
-<p align="center"><img src="../images/logo-iade.png" alt="IADE Logo" width="600"></p>
+<p align="center"><img src="../images/logo-iade.png" alt="IADE Logo" width="600"></br></p>
 
 
 # Systematic Literature Review (SLR)
 
 ## Overview
 
-A Systematic Literature Review (SLR) is **required** for your dissertation. It is a rigorous, methodical approach to identifying, evaluating, and synthesizing all relevant research on a specific topic. Unlike a regular literature review, an SLR follows a predefined protocol and must be reported using PRISMA guidelines.
+A Systematic Literature Review (SLR) is **advised** for your dissertation. It is a rigorous, methodical approach to identifying, evaluating, and synthesizing all relevant research on a specific topic. Unlike a regular literature review, an SLR follows a predefined protocol and must be reported using PRISMA guidelines.
 
 ## SLR Process
 
@@ -283,7 +283,7 @@ Full-text articles excluded (n = ...)
 Studies included in review (n = ...)
 ```
 
-Use the [PRISMA App](https://prisma-flow.diagram.org/) to generate your flow diagram.
+Use the [App PRISMA](https://estech.shinyapps.io/prisma_flowdiagram) to generate your flow diagram.
 
 ### Study Characteristics
 

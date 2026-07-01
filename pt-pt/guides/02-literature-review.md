@@ -28,7 +28,7 @@ Utilize múltiplas fontes para uma cobertura abrangente:
 | [Google Scholar](https://scholar.google.com/) | Cobertura ampla |
 | [dblp](https://dblp.uni-trier.de/) | Bibliografia de CC |
 
-Ver lista completa: [Bibliotecas Digitais](../pt-pt/resources/digital-libraries.md)
+Ver lista completa: [Bibliotecas Digitais](../resources/digital-libraries.md)
 
 ### 3. Gira as Suas Referências
 
@@ -62,7 +62,7 @@ Estas ferramentas podem acelerar a sua pesquisa:
 - [Connected Papers](https://www.connectedpapers.com/) → Visualize relações entre artigos
 - [Research Rabbit](https://app.researchrabbit.ai/) → Descubra artigos relacionados
 
-Ver: [Ferramentas de IA para Investigação](../pt-pt/resources/ai-tools.md)
+Ver: [Ferramentas de IA para Investigação](../resources/ai-tools.md)
 
 ## Revisão Sistemática da Literatura (SLR)
 

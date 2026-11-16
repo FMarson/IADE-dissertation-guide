@@ -27,11 +27,13 @@ A comprehensive resource to help IADE master’s and PhD students navigate the d
 - [IADE & UE Guidelines](resources/iade-ue-guidelines.md) → Official academic writing guidelines
 - [PRISMA2020 Flowchart Diagram](https://estech.shinyapps.io/prisma_flowdiagram/) → Online PRISMA2020 Flow Diagram generator
 
+<!--
 ## LaTeX Templates
 
 Ready-to-use templates in the [`templates/`](templates/) folder:
 
 - **Dissertation Template** → [`templates/dissertation/`](templates/dissertation/)
+-->
 
 ### LaTeX Editors
 

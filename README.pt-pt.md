@@ -25,19 +25,22 @@ Um recurso abrangente para orientar os alunos de mestrado e de doutoramento do I
 - [Ferramentas de IA para Investigação](pt-pt/resources/ai-tools.md) → Ferramentas para investigação e revisão da literatura
 - [Revisão Sistemática da Literatura](pt-pt/resources/systematic-literature-review.md) → Guias de metodologia SLR
 - [Diretrizes IADE e UE](pt-pt/resources/iade-ue-guidelines.md) → Diretrizes oficiais de escrita académica
+- [PRISMA2020 Flowchart Diagram](https://getmep.shinyapps.io/prisma2020-ptbr/) → Gerador Online de fluxograma PRISMA2020
 
+<!--
 ## Modelos LaTeX
 
 Modelos prontos a usar na pasta [`templates/`](/templates/):
 
 - **Modelo de Dissertação** → [`templates/dissertation/`](../templates/dissertation/)
 - **Fluxograma PRISMA** → [`templates/prisma-flowchart/`](../templates/prisma-flowchart/)
+-->
 
 ### Editores LaTeX
 
 Ferramentas para escrever e compilar a sua dissertação:
 
-- [Editores LaTeX](pt-pt/guides/tools/latex-editors.md) → Overleaf, Prism (IA), MiKTeX, TeX Live, VS Code
+- [Editores LaTeX](pt-pt/guides/tools/latex-editors.md) → Overleaf, MiKTeX, TeX Live, VS Code
 
 ## Artigos
 

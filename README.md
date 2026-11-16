@@ -31,7 +31,7 @@ A comprehensive resource to help IADE master’s and PhD students navigate the d
 Ready-to-use templates in the [`templates/`](templates/) folder:
 
 - **Dissertation Template** → [`templates/dissertation/`](templates/dissertation/)
-- **PRISMA Flowchart** → [`templates/prisma-flowchart/`](templates/prisma-flowchart/)
+- **PRISMA Flowchart** → [`templates/prisma-flowchart/`](https://estech.shinyapps.io/prisma_flowdiagram/)
 
 ### LaTeX Editors
 
